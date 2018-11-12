@@ -3,7 +3,7 @@
 A simple React + Redux implementation. This will be turned into a free video series once the app is totally fleshed out.
 
 ## Installation
-Fork and then Clone the repository to local machin.
+Fork and then Clone the repository to local machine.
 
 ## Running
 

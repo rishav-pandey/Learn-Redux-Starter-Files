@@ -7,5 +7,7 @@ import css from './styles/style.styl';
 
 // Import components
 import Main from './components/Main'
+import Single from './components/Single'
+import PhotoGrid from './components/PhotoGrid'
 
-render(<Main/>, document.getElementById('root'));
+render(<Main></Main>, document.getElementById('root'));
